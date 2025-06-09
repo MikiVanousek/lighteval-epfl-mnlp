@@ -5,3 +5,4 @@ block_size: 128
 output_dir: /scratch/izar/vanousek/quant/
 hf_repo: MikiV/LLMC_SmoothQuant88
 token: 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
+dtype: "8bit"

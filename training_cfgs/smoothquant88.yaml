@@ -1,0 +1,7 @@
+model_id: publication-charaf/MIX_OA_Qwen3-0.6B-Base_lr-1e-05_e-1_s-0_lr-1e-05_e-3_s-0
+quant_method: smoothquant+gptq  # Options: gptq, smoothquant, smoothquant+gptq
+bits: 8
+block_size: 128
+output_dir: /scratch/izar/vanousek/quant/
+hf_repo: MikiV/LLMC_SmoothQuant88
+token: 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
